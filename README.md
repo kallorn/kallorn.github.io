@@ -1,3 +1,3 @@
 # grubbauer.github.io
 
-Person website
+Personal website
